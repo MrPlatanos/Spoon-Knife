@@ -1,29 +1,38 @@
 body {
   margin:0 auto;
-  padding:0px;
+  text-align:center;
 }
+
+#wrap{ width:auto; margin:0 auto; height:auto; }
 
 #fb {
-  display: block;
-  width:auto;
-  height: auto;
-  margin-bottom:50px;
+	margin: 0 auto;
+  	width:auto;
+  	height:380px;
+	background-color:#151515;
 }
 
-h1{
-	display:block;
-	width:auto;
+#headdiv{
+	width:100%;
 	height:auto;
-	padding:20px;
-	margin-bottom:50px;
+	padding:1px;
+	background-color:#222222;
+}
+h1{
 	font-family: 'Shadows Into Light', cursive;
-	font-size:32px;
+	font-size:38px;
+	color:#eaeaea;
+	padding:0px;
+}
+
+#pdiv{
+	width:100%;
+	height:auto;
+	padding:1px;
+	background-color:#4B4B4B;
 }
 p {
-  display: block;
-  width: auto;
-  height:auto;
-  padding: 10px;
   font-family: 'Rajdhani', sans-serif;
-  font-size:12px;
+  font-size:16px;
+  color:#f6f6f6;
 }
