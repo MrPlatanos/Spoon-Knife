@@ -1,17 +1,29 @@
-* {
-  margin:0px;
+body {
+  margin:0 auto;
   padding:0px;
 }
 
-#octocat {
+#fb {
   display: block;
-  width:384px;
-  margin: 50px auto;
+  width:auto;
+  height: auto;
+  margin-bottom:50px;
 }
 
+h1{
+	display:block;
+	width:auto;
+	height:auto;
+	padding:20px;
+	margin-bottom:50px;
+	font-family: 'Shadows Into Light', cursive;
+	font-size:32px;
+}
 p {
   display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  width: auto;
+  height:auto;
+  padding: 10px;
+  font-family: 'Rajdhani', sans-serif;
+  font-size:12px;
 }
